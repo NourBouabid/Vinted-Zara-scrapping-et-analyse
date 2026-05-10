@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿nom,url,couleur,matiere,prix,collection,categorie
 JUPE ASYMÉTRIQUE FLUIDE,https://www.zara.com/fr/fr/jupe-asymetrique-fluide-p01165021.html,Sable |,76% polyester,"29,95 EUR",femme,JUPE
 SHORT MINI DENIM TRF ÉTOILES,https://www.zara.com/fr/fr/short-mini-denim-trf-etoiles-p06929004.html,Bleu |,100% coton,"29,95 EUR",femme,SHORT
@@ -182,3 +183,51 @@ CASQUETTE EN RÉSILLE À ÉTIQUETTE AUTOCOLLANTE,https://www.zara.com/fr/fr/casq
 TENNIS PENN ©,https://www.zara.com/fr/fr/tennis-penn---p12334730.html,Bleu |,60% polyester,"55,95 EUR",garçon,TENNIS
 PANTALON À PLIS PENN ©,https://www.zara.com/fr/fr/pantalon-a-plis-penn---p01465529.html,Pierre |,100% coton,"45,95 EUR",garçon,PANTALON
 LUNETTES DE SOLEIL EN PLASTIQUE FINES,https://www.zara.com/fr/fr/lunettes-de-soleil-en-plastique-fin-p00475548.html,Bleu clair |,100% PCTG,"10,95 EUR",garçon,LUNETTES
+=======
+﻿nom,url,categorie,couleur,matiere,collection,pays,prix,promo,reference
+CRCHT KNT 16,https://www.zara.com/fr/fr/crcht-knt-16-p00021900.html,PNG,Beige,76% coton,Femme,France,59.95,0,00021900-V2026
+VESTE COURTE ZW COLLECTION,https://www.zara.com/fr/fr/veste-courte-zw-collection-p02907085.html,PNG,Beige,72% polyester,Femme,France,69.95,0,02907085-V2026
+JUPE MIDI PATCHWORK ZW COLLECTION ÉDITION LIMITÉE,https://www.zara.com/fr/fr/jupe-midi-patchwork-zw-collection-limited-edition-p02790216.html,PNG,Beige,98% coton,Femme,France,99.95,0,02790216-V2026
+BLOUSON AJUSTÉ À BRANDEBOURGS,https://www.zara.com/fr/fr/veste-cintree-a-brandebourgs-p04341764.html,PNG,Beige,100% coton,Femme,France,59.95,0,04341764-V2026
+LUNETTES DE SOLEIL ŒIL-DE-CHAT PREPPY,https://www.zara.com/fr/fr/lunettes-de-soleil--il-de-chat-preppy-p02727009.html,PNG,Beige,81% diacétate de cellulose,Femme,France,45.95,0,02727009-V2026
+PANTALON CEINTURE EN LIN ZW COLLECTION,https://www.zara.com/fr/fr/pantalon-avec-ceinture-en-lin-zw-collection-p01943904.html,PNG,Beige,68% viscose,Femme,France,79.95,0,01943904-V2026
+LUNETTES DE SOLEIL MAXI MASQUE,https://www.zara.com/fr/fr/lunettes-de-soleil-maxi-masque-p02727011.html,PNG,Beige,80% diacétate de cellulose,Femme,France,45.95,0,02727011-V2026
+CHEMISE CINTREE FRONCEE,https://www.zara.com/fr/fr/chemise-cintree-froncee-p04661097.html,PNG,Beige,97% coton,Femme,France,25.95,0,04661097-V2026
+SHORT MINI DENIM TRF ÉTOILES,https://www.zara.com/fr/fr/short-mini-denim-trf-etoiles-p06929004.html,PNG,Beige,100% coton,Femme,France,29.95,0,06929004-V2026
+BLAZER BRANDENBOURGS ZW COLLECTION,https://www.zara.com/fr/fr/blazer-brandenbourgs-zw-collection-p02783617.html,PNG,Beige,93% viscose,Femme,France,139.0,0,02783617-V2026
+SHORT À RAYURES ET PINCES ZW COLLECTION,https://www.zara.com/fr/fr/short-a-rayures-et-pinces-zw-collection-p01551355.html,PNG,Beige,86% coton,Femme,France,39.95,0,01551355-V2026
+TOP À BOUTONS ET LIN,https://www.zara.com/fr/fr/top-a-boutons-et-lin-p04174341.html,PNG,Beige,70% coton,Femme,France,15.95,0,04174341-V2026
+JEAN ZW COLLECTION FLARE TAILLE HAUTE,https://www.zara.com/fr/fr/jean-zw-collection-flare-taille-haute-p04001050.html,PNG,Beige,100% coton,Femme,France,45.95,0,04001050-V2026
+ROBE MIDI CEINTURE AVEC LIN ZW COLLECTION,https://www.zara.com/fr/fr/robe-midi-ceinture-avec-lin-zw-collection-p02136844.html,PNG,Beige,70% viscose,Femme,France,69.95,0,02136844-V2026
+PNG,https://www.zara.com/fr/fr/sandales-en-cuir-a-clous-p11643710.html,,Beige,,Femme,France,,0,
+CHEMISE POPELINE BOUTONS ZW COLLECTION,https://www.zara.com/fr/fr/chemise-en-popeline-a-boutons-zw-collection-p06109891.html,PNG,Beige,100% coton,Femme,France,39.95,0,06109891-V2026
+JEAN TRF LOOSE FOLDED TAILLE BASSE À RAYURES,https://www.zara.com/fr/fr/jean-trf-loose-folded-taille-basse-a-rayures-p08727114.html,PNG,Beige,100% coton,Femme,France,35.95,0,08727114-V2026
+TOP STYLE LINGERIE EN DENTELLE ZW COLLECTION,https://www.zara.com/fr/fr/top-style-lingerie-en-dentelle-zw-collection-p05107085.html,PNG,Beige,100% viscose,Femme,France,35.95,0,05107085-V2026
+JEAN ZW COLLECTION DROIT TAILLE MOYENNE,https://www.zara.com/fr/fr/jean-zw-collection-droit-taille-moyenne-p06840110.html,PNG,Beige,88% coton,Femme,France,45.95,0,06840110-V2026
+BLOUSE FLUIDE BRANDENBOURGS ZW COLLECTION,https://www.zara.com/fr/fr/blouse-fluide-brandenbourgs-zw-collection-p02548002.html,PNG,Beige,87% lyocell,Femme,France,39.95,0,02548002-V2026
+T-SHIRT À MANCHES LONGUES IMPRIMÉ AGUSTINA SHUAN,https://www.zara.com/fr/fr/t-shirt-a-manches-longues-imprime-agustina-shuan-p00085062.html,PNG,Beige,100% coton,Homme,France,22.95,0,00085062-V2026
+CHEMISE OVERSIZE À CARREAUX AVEC POCHE ZW COLLECTION,https://www.zara.com/fr/fr/chemise-oversize-a-carreaux-avec-poche-zw-collection-p01063262.html,PNG,Beige,100% coton,Homme,France,39.95,0,01063262-V2026
+CHEMISE OVERSIZE À RAYURES,https://www.zara.com/fr/fr/chemise-oversize-a-rayures-p01971054.html,PNG,Beige,86% modal,Homme,France,32.95,0,01971054-V2026
+T-SHIRT EFFET DÉLAVÉ PAULA GRENOUILLE,https://www.zara.com/fr/fr/t-shirt-effet-delave-paula-grenouille-p00085069.html,PNG,Beige,100% coton,Homme,France,22.95,0,00085069-V2026
+ROBE KAFTAN FLEURS LIMITED EDITION,https://www.zara.com/fr/fr/robe-kaftan-fleurs-limited-edition-p02114845.html,PNG,Beige,100% coton,Homme,France,79.95,0,02114845-V2026
+CHEMISE OVERSIZE À NŒUD,https://www.zara.com/fr/fr/chemise-oversize-a-n-ud-p02484268.html,PNG,Beige,100% coton,Homme,France,29.95,0,02484268-V2026
+BLOUSON BOMBER OVERSIZE À FERMETURE ÉCLAIR,https://www.zara.com/fr/fr/blouson-bomber-oversize-a-fermeture-eclair-p04813305.html,PNG,Beige,92% polyamide,Homme,France,45.95,0,04813305-V2026
+T-SHIRT IMPRIMÉ EFFET DÉLAVÉ MANUJA WALDIA,https://www.zara.com/fr/fr/t-shirt-imprime-effet-delave-manuja-waldia-p06050073.html,PNG,Beige,100% coton,Homme,France,22.95,0,06050073-V2026
+CHEMISE SATINÉE OVERSIZE,https://www.zara.com/fr/fr/chemise-satinee-oversize-p08372119.html,PNG,Beige,89% viscose,Homme,France,29.95,0,08372119-V2026
+VESTE OVERSIZE MAXI POCHES,https://www.zara.com/fr/fr/blazer-oversize-maxi-poches-p01255794.html,PNG,Beige,65% polyester,Homme,France,69.95,0,01255794-V2026
+T-SHIRT MANCHES COURTES IMPRIMÉ AGUSTINA SHUAN,https://www.zara.com/fr/fr/t-shirt-manches-courtes-imprime-agustina-shuan-p00085064.html,PNG,Beige,100% coton,Homme,France,19.95,0,00085064-V2026
+BLOUSON BOMBER VOLUME,https://www.zara.com/fr/fr/veste-bomber-volume-p08372369.html,PNG,Beige,97% polyester,Homme,France,29.95,0,08372369-V2026
+T-SHIRT OVERSIZE FLUIDE,https://www.zara.com/fr/fr/t-shirt-fluide-oversize-p03641023.html,PNG,Beige,90% lyocell,Homme,France,19.95,0,03641023-V2026
+T-SHIRT EFFET DÉLAVÉ INSCRIPTION,https://www.zara.com/fr/fr/t-shirt-effet-delave-inscription-p00085067.html,PNG,Beige,100% coton,Homme,France,19.95,0,00085067-V2026
+CHEMISE OVERSIZE À CARREAUX,https://www.zara.com/fr/fr/chemise-oversize-a-carreaux-p02264525.html,PNG,Beige,50% viscose,Homme,France,29.95,0,02264525-V2026
+T-SHIRT À INSCRIPTION ET DÉCHIRURES,https://www.zara.com/fr/fr/t-shirt-a-inscription-et-dechirures-p04805031.html,PNG,Beige,100% coton,Homme,France,17.95,0,04805031-V2026
+HAUT BIMATIÈRE POPELINE,https://www.zara.com/fr/fr/t-shirt-combine-popeline-p00264153.html,PNG,Beige,100% coton,Homme,France,25.95,0,00264153-V2026
+T-SHIRT INTERLOCK À OUVERTURES,https://www.zara.com/fr/fr/t-shirt-interlock-a-ouvertures-p04174190.html,PNG,Beige,80% coton,Homme,France,19.95,0,04174190-V2026
+T-SHIRT RUSTIQUE À MANCHES LONGUES,https://www.zara.com/fr/fr/t-shirt-rustique-a-manches-longues-p00085060.html,PNG,Beige,100% coton,Homme,France,19.95,0,00085060-V2026
+T-SHIRT OVERSIZE À POCHE,https://www.zara.com/fr/fr/t-shirt-oversize-a-poche-p05643033.html,PNG,Beige,100% coton,Homme,France,17.95,0,05643033-V2026
+SWEAT À INSCRIPTION FOIL,https://www.zara.com/fr/fr/sweat-a-inscription-foil-p05644032.html,PNG,Beige,97% coton,Enfants,France,29.95,0,05644032-V2026
+SWEAT BRODERIE FLEURS,https://www.zara.com/fr/fr/sweat-broderie-fleurs-p01165038.html,PNG,Beige,100% coton,Enfants,France,32.95,0,01165038-V2026
+SWEAT À INSCRIPTION BRILLANTE,https://www.zara.com/fr/fr/sweat-a-inscription-brillante-p05941003.html,PNG,Beige,100% coton,Enfants,France,35.95,0,05941003-V2026
+SWEAT IMPRIMÉ CORTADO,https://www.zara.com/fr/fr/sweat-imprime-cortado-p00085054.html,PNG,Beige,65% coton,Enfants,France,35.95,0,00085054-V2026
+SWEAT À INSCRIPTION,https://www.zara.com/fr/fr/sweat-a-inscription-p03253019.html,PNG,Beige,100% coton,Enfants,France,19.95,0,03253019-V2026
+>>>>>>> abf1beab8837a3a79d17beb824c6dc7ded72b9fa
