@@ -42,7 +42,7 @@ très bon état,Non précisée,blanc,robes,74.0,15.0,16.45,femme,autres,blanc/be
 très bon état,polyester,"fuchsia, rose",sweats et sweats à capuche,8.0,9.0,10.15,femme,fibre synthétique,rose/violet
 neuf sans étiquette,Non précisée,crème,accessoires,32.0,7.0,8.05,femme,autres,blanc/beige
 très bon état,coton,bleu,jeans,16.0,3.0,3.85,femme,fibre naturelle végétale,bleu
-très bon état,élasthanne,noir,hauts et t-shirts,7.0,5.0,5.95,femme,autres,noir/gris
+très bon état,élasthanne,noir,hauts et t-shirts,7.0,5.0,5.95,femme,fibre synthétique,noir/gris
 neuf sans étiquette,Non précisée,"violet, marron",accessoires,33.0,7.0,7.84,femme,autres,rose/violet
 neuf sans étiquette,viscose,gris,hauts et t-shirts,19.0,3.0,3.85,femme,fibre artificielle,noir/gris
 très bon état,coton,blanc,hauts et t-shirts,5.0,5.0,5.7,femme,fibre naturelle végétale,blanc/beige
@@ -130,7 +130,7 @@ très bon état,coton,"bleu, bleu clair",sweats et sweats à capuche,37.0,4.0,4.
 très bon état,coton,bleu,robes,27.0,15.0,16.45,homme,fibre naturelle végétale,bleu
 très bon état,coton,blanc,hauts et t-shirts,42.0,6.0,6.61,homme,fibre naturelle végétale,blanc/beige
 neuf sans étiquette,Non précisée,marron,chaussures,49.0,15.0,16.45,homme,autres,marron
-très bon état,élasthanne,noir,hauts et t-shirts,8.0,5.0,5.7,homme,autres,noir/gris
+très bon état,élasthanne,noir,hauts et t-shirts,8.0,5.0,5.7,homme,fibre synthétique,noir/gris
 neuf sans étiquette,"coton, élasthanne",beige,hauts et t-shirts,20.0,10.0,10.95,homme,autres,blanc/beige
 très bon état,"coton, polyester",gris,pantalons et leggings,33.0,5.0,5.7,homme,autres,noir/gris
 très bon état,coton,"noir, blanc",pantalons et leggings,222.0,10.0,11.2,homme,fibre naturelle végétale,noir/gris
@@ -154,7 +154,7 @@ très bon état,Non précisée,vert,hauts et t-shirts,19.0,5.0,5.95,homme,autres
 neuf sans étiquette,"viscose, lin, carton",bleu clair,blazers et tailleurs,12.0,15.0,16.38,homme,autres,bleu
 très bon état,coton,beige,manteaux et vestes,29.0,10.0,11.2,homme,fibre naturelle végétale,blanc/beige
 très bon état,Non précisée,noir,manteaux et vestes,24.0,10.0,11.2,homme,autres,noir/gris
-très bon état,élasthanne,noir,pantalons et leggings,9.0,3.0,3.36,homme,autres,noir/gris
+très bon état,élasthanne,noir,pantalons et leggings,9.0,3.0,3.36,homme,fibre synthétique,noir/gris
 très bon état,coton,blanc,jeans,11.0,16.0,17.46,homme,fibre naturelle végétale,blanc/beige
 très bon état,coton,rouge,hauts et t-shirts,33.0,3.0,3.85,homme,fibre naturelle végétale,rouge
 neuf sans étiquette,coton,blanc,hauts et t-shirts,11.0,4.0,4.9,homme,fibre naturelle végétale,blanc/beige
@@ -211,11 +211,11 @@ très bon état,Non précisée,multicolore,robes,20.0,25.0,27.23,fille,autres,mo
 très bon état,lin,crème,robes,43.0,7.0,8.05,fille,fibre naturelle végétale,blanc/beige
 très bon état,polyester,rose,hauts et t-shirts,4.0,18.0,19.6,fille,fibre synthétique,rose/violet
 neuf sans étiquette,coton,bleu clair,jeans,53.0,5.0,5.7,fille,fibre naturelle végétale,bleu
-très bon état,cuir,noir,chaussures,198.0,25.0,27.23,fille,autres,noir/gris
+très bon état,cuir,noir,chaussures,198.0,25.0,27.23,fille,cuir,noir/gris
 bon état,"polyester, élasthanne",noir,hauts et t-shirts,5.0,5.0,5.7,fille,autres,noir/gris
 neuf sans étiquette,"coton, lin",crème,manteaux et vestes,14.0,10.0,11.2,fille,autres,blanc/beige
 neuf avec étiquette,coton,"blanc, crème",jeans,92.0,18.0,19.6,fille,fibre naturelle végétale,blanc/beige
-neuf avec étiquette,cuir,marron,chaussures,118.0,60.0,64.55,fille,autres,marron
+neuf avec étiquette,cuir,marron,chaussures,118.0,60.0,64.55,fille,cuir,marron
 neuf avec étiquette,Non précisée,marron,manteaux et vestes,65.0,45.0,48.5,fille,autres,marron
 très bon état,"coton, polyester",gris,sweats et sweats à capuche,3.0,6.0,6.77,fille,autres,noir/gris
 très bon état,laine,noir,blazers et tailleurs,7.0,14.0,15.4,fille,fibre naturelle animale,noir/gris
@@ -251,10 +251,10 @@ neuf avec étiquette,Non précisée,"lila, bleu clair",robes,156.0,60.0,63.7,fil
 très bon état,"cuir, cuir synthétique","kaki, vert",manteaux et vestes,49.0,35.0,38.08,fille,autres,vert
 neuf sans étiquette,coton,crème,sacs,17.0,8.0,8.78,fille,fibre naturelle végétale,blanc/beige
 neuf avec étiquette,"polyester, élasthanne","noir, marron",robes,22.0,20.0,21.7,fille,autres,noir/gris
-neuf avec étiquette,cuir,"marron, bordeaux",chaussures,42.0,35.0,37.45,fille,autres,marron
+neuf avec étiquette,cuir,"marron, bordeaux",chaussures,42.0,35.0,37.45,fille,cuir,marron
 très bon état,Non précisée,noir,chaussures,3.0,20.0,21.7,fille,autres,noir/gris
 neuf avec étiquette,Non précisée,noir,manteaux et vestes,4.0,35.0,37.45,fille,autres,noir/gris
-neuf sans étiquette,cuir,orange,chaussures,54.0,13.0,14.35,fille,autres,jaune/orange
+neuf sans étiquette,cuir,orange,chaussures,54.0,13.0,14.35,fille,cuir,jaune/orange
 neuf avec étiquette,"viscose, lin","blanc, bleu",robes,50.0,20.0,21.7,fille,autres,blanc/beige
 très bon état,coton,"bleu, crème",manteaux et vestes,41.0,24.0,26.03,fille,fibre naturelle végétale,bleu
 très bon état,coton,gris,hauts et t-shirts,53.0,6.0,7.0,fille,fibre naturelle végétale,noir/gris
@@ -274,7 +274,7 @@ très bon état,Non précisée,marron,manteaux et vestes,27.0,30.0,32.45,fille,a
 neuf sans étiquette,"polyester, viscose",abricot,blazers et tailleurs,52.0,20.0,21.7,fille,autres,jaune/orange
 neuf sans étiquette,Non précisée,"bleu clair, blanc",robes,41.0,27.0,29.05,fille,autres,bleu
 très bon état,"polyester, viscose",bleu clair,pantalons et leggings,27.0,6.0,6.77,fille,autres,bleu
-très bon état,daim,marron,blazers et tailleurs,20.0,100.0,107.35,fille,autres,marron
+très bon état,daim,marron,blazers et tailleurs,20.0,100.0,107.35,fille,cuir,marron
 très bon état,coton,multicolore,robes,12.0,25.0,26.95,fille,fibre naturelle végétale,motif/multicolore
 neuf sans étiquette,viscose,"multicolore, rose",robes,22.0,24.0,26.03,fille,fibre artificielle,motif/multicolore
 très bon état,cuir synthétique,noir,manteaux et vestes,17.0,24.0,26.03,fille,autres,noir/gris
@@ -294,7 +294,7 @@ neuf sans étiquette,coton,argenté,shorts,20.0,10.0,11.2,garcon,fibre naturelle
 neuf sans étiquette,polyester,"blanc, noir",pantalons et leggings,2.0,3.0,3.85,garcon,fibre synthétique,blanc/beige
 neuf avec étiquette,coton,blanc,vêtements de sport,7.0,18.0,19.63,garcon,fibre naturelle végétale,blanc/beige
 neuf sans étiquette,coton,bleu clair,jeans,53.0,5.0,5.95,garcon,fibre naturelle végétale,bleu
-très bon état,cuir,noir,chaussures,198.0,25.0,27.1,garcon,autres,noir/gris
+très bon état,cuir,noir,chaussures,198.0,25.0,27.1,garcon,cuir,noir/gris
 bon état,Non précisée,noir,manteaux et vestes,5.0,10.0,11.2,garcon,autres,noir/gris
 neuf sans étiquette,Non précisée,beige,costumes et tenues particulières,22.0,15.0,16.38,garcon,autres,blanc/beige
 très bon état,lin,crème,robes,43.0,7.0,8.05,garcon,fibre naturelle végétale,blanc/beige
@@ -322,14 +322,14 @@ très bon état,coton,"bleu, bleu clair",sweats et sweats à capuche,37.0,4.0,4.
 neuf sans étiquette,"polyester, viscose, élasthanne",kaki,pantalons et leggings,14.0,25.0,26.95,garcon,autres,vert
 très bon état,coton,bleu clair,hauts et t-shirts,11.0,15.0,16.45,garcon,fibre naturelle végétale,bleu
 bon état,Non précisée,kaki,manteaux et vestes,5.0,6.0,7.0,garcon,autres,vert
-neuf avec étiquette,cuir,marron,chaussures,118.0,60.0,64.55,garcon,autres,marron
+neuf avec étiquette,cuir,marron,chaussures,118.0,60.0,64.55,garcon,cuir,marron
 très bon état,Non précisée,"vert, kaki",sweats et sweats à capuche,11.0,9.0,9.98,garcon,autres,vert
 neuf sans étiquette,coton,bleu clair,combinaisons et combishorts,13.0,10.0,11.2,garcon,fibre naturelle végétale,bleu
 très bon état,coton,"blanc, rose",shorts,4.0,5.0,5.7,garcon,fibre naturelle végétale,blanc/beige
 neuf sans étiquette,Non précisée,"kaki, beige",pantalons et leggings,16.0,10.0,11.2,garcon,autres,vert
 très bon état,"polyester, élasthanne",rose,hauts et t-shirts,8.0,3.0,3.85,garcon,autres,rose/violet
 très bon état,Non précisée,crème,hauts et t-shirts,35.0,6.0,6.61,garcon,autres,blanc/beige
-neuf avec étiquette,cuir,noir,chaussures,4.0,50.0,53.2,garcon,autres,noir/gris
+neuf avec étiquette,cuir,noir,chaussures,4.0,50.0,53.2,garcon,cuir,noir/gris
 très bon état,"coton, lin, dentelle",crème,hauts et t-shirts,139.0,17.0,18.55,garcon,autres,blanc/beige
 très bon état,"polyester, viscose, élasthanne",menthe,pantalons et leggings,8.0,7.0,8.05,garcon,autres,vert
 neuf avec étiquette,"polyester, élasthanne","noir, marron",robes,23.0,20.0,21.7,garcon,autres,noir/gris
@@ -338,7 +338,7 @@ très bon état,"coton, élasthanne",bleu,jeans,9.0,6.0,7.0,garcon,autres,bleu
 très bon état,"cuir, cuir synthétique","kaki, vert",manteaux et vestes,49.0,35.0,37.45,garcon,autres,vert
 très bon état,"coton, polyester",blanc,vêtements de sport,29.0,11.0,12.04,garcon,autres,blanc/beige
 très bon état,Non précisée,noir,chaussures,3.0,20.0,21.8,garcon,autres,noir/gris
-neuf avec étiquette,cuir,"marron, bordeaux",chaussures,42.0,35.0,38.08,garcon,autres,marron
+neuf avec étiquette,cuir,"marron, bordeaux",chaussures,42.0,35.0,38.08,garcon,cuir,marron
 très bon état,polyester,"fuchsia, rose",sweats et sweats à capuche,9.0,9.0,10.15,garcon,fibre synthétique,rose/violet
 très bon état,"polyester, viscose, nylon",bleu,sweats et sweats à capuche,6.0,3.0,3.56,garcon,autres,bleu
 très bon état,"polyester, viscose",bleu clair,pantalons et leggings,27.0,6.0,6.77,garcon,autres,bleu
@@ -361,21 +361,21 @@ très bon état,coton,rouge,hauts et t-shirts,33.0,3.0,3.85,garcon,fibre naturel
 très bon état,coton,bleu,jeans,16.0,3.0,3.56,garcon,fibre naturelle végétale,bleu
 neuf avec étiquette,"cuir, daim","moutarde, marron",chaussures,54.0,30.0,32.2,garcon,autres,jaune/orange
 très bon état,coton,noir,hauts et t-shirts,8.0,8.0,8.78,garcon,fibre naturelle végétale,noir/gris
-neuf sans étiquette,cuir,doré,chaussures,10.0,15.0,16.38,garcon,autres,jaune/orange
+neuf sans étiquette,cuir,doré,chaussures,10.0,15.0,16.38,garcon,cuir,jaune/orange
 neuf avec étiquette,"viscose, lin",beige,pantalons et leggings,14.0,28.0,30.1,garcon,autres,blanc/beige
 très bon état,coton,vert foncé,robes,6.0,8.0,8.78,garcon,fibre naturelle végétale,vert
-neuf avec étiquette,cuir,"noir, bleu",chaussures,31.0,175.0,184.45,garcon,autres,noir/gris
+neuf avec étiquette,cuir,"noir, bleu",chaussures,31.0,175.0,184.45,garcon,cuir,noir/gris
 très bon état,cuir synthétique,noir,manteaux et vestes,18.0,24.0,26.03,garcon,autres,noir/gris
 très bon état,Non précisée,marron,manteaux et vestes,27.0,30.0,32.2,garcon,autres,marron
 très bon état,polyester,noir,hauts et t-shirts,51.0,15.0,16.38,garcon,fibre synthétique,noir/gris
 neuf avec étiquette,"cuir, daim",beige,chaussures,37.0,39.0,41.65,garcon,autres,blanc/beige
 très bon état,"coton, polyester, nylon",beige,manteaux et vestes,27.0,12.0,13.12,garcon,autres,blanc/beige
 neuf sans étiquette,"coton, élasthanne",beige,hauts et t-shirts,21.0,10.0,11.2,garcon,autres,blanc/beige
-très bon état,daim,marron,blazers et tailleurs,20.0,100.0,107.35,garcon,autres,marron
+très bon état,daim,marron,blazers et tailleurs,20.0,100.0,107.35,garcon,cuir,marron
 neuf sans étiquette,viscose,"multicolore, blanc",robes,34.0,24.0,25.9,garcon,fibre artificielle,motif/multicolore
 très bon état,"polyester, viscose",bleu clair,pantalons et leggings,11.0,7.0,7.7,garcon,autres,bleu
 bon état,"coton, polyester, laine",noir,blazers et tailleurs,9.0,5.0,5.7,garcon,autres,noir/gris
-très bon état,cuir,noir,chaussures,41.0,18.0,19.61,garcon,autres,noir/gris
+très bon état,cuir,noir,chaussures,41.0,18.0,19.61,garcon,cuir,noir/gris
 très bon état,coton,"bleu, blanc",hauts et t-shirts,19.0,6.0,7.0,garcon,fibre naturelle végétale,bleu
 très bon état,coton,blanc,hauts et t-shirts,16.0,4.0,4.9,garcon,fibre naturelle végétale,blanc/beige
 neuf sans étiquette,Non précisée,"blanc, crème",combinaisons et combishorts,12.0,50.0,53.2,garcon,autres,blanc/beige
