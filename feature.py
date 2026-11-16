@@ -1,4 +1,4 @@
-def prix_moyen_zara(categorie, collection, couleur, matiere):
+def prix_moyen_zara(df_zara,categorie, collection, couleur, matiere):
 
     """
     Renvoie le prix moyen Zara neuf correspondant aux critères donnés.
@@ -10,7 +10,7 @@ def prix_moyen_zara(categorie, collection, couleur, matiere):
     4. catégorie
     """
     df = df_zara.copy()
-
+    
     # Niveau 1 : tous les critères
     filtre = (
         (df['categorie'] == categorie) &

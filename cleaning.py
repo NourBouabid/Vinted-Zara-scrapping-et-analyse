@@ -5,164 +5,165 @@ import warnings
 warnings.filterwarnings('ignore')
 
 mapping_zara = {
-        # fibres naturelles végétales
-        "coton": "fibre naturelle végétale",
-        "lin": "fibre naturelle végétale",
+    # fibres naturelles végétales
+    "coton": "fibre naturelle végétale",
+    "lin": "fibre naturelle végétale",
 
-        # fibres naturelles animales
-        "laine": "fibre naturelle animale",
-        "soie (de mûrier)": "fibre naturelle animale",
+    # fibres naturelles animales
+    "laine": "fibre naturelle animale",
+    "soie (de mûrier)": "fibre naturelle animale",
 
-        # fibres artificielles
-        "viscose": "fibre artificielle",
-        "lyocell": "fibre artificielle",
-        "modal": "fibre artificielle",
-        "acétate": "fibre artificielle",
-        "diacétate de cellulose": "fibre artificielle",
-        "pâte de cellulose": "fibre artificielle",
+    # fibres artificielles
+    "viscose": "fibre artificielle",
+    "lyocell": "fibre artificielle",
+    "modal": "fibre artificielle",
+    "acétate": "fibre artificielle",
+    "diacétate de cellulose": "fibre artificielle",
+    "pâte de cellulose": "fibre artificielle",
 
-        # fibres synthétiques
-        "polyester": "fibre synthétique",
-        "polyamide": "fibre synthétique",
-        "acrylique": "fibre synthétique",
-        "polyuréthane": "fibre synthétique",
-        "polyéthylène": "fibre synthétique",
-        "élastomultiester": "fibre synthétique",
-        "acétate de vinyle d éthylène": "fibre synthétique",
+    # fibres synthétiques
+    "polyester": "fibre synthétique",
+    "polyamide": "fibre synthétique",
+    "acrylique": "fibre synthétique",
+    "polyuréthane": "fibre synthétique",
+    "polyéthylène": "fibre synthétique",
+    "élastomultiester": "fibre synthétique",
+    "acétate de vinyle d éthylène": "fibre synthétique",
 
-        # cuir
-        "cuir de vache": "cuir",
-        "cuir de chèvre": "cuir",
-        "cuir de vachette": "cuir",
-        "cuir de porc": "cuir",
-        "cuir de mouton": "cuir",
+    # cuir
+    "cuir de vache": "cuir",
+    "cuir de chèvre": "cuir",
+    "cuir de vachette": "cuir",
+    "cuir de porc": "cuir",
+    "cuir de mouton": "cuir",
 
-        # autres
-        "bois de manguier": "autres",
-        "papier": "autres",
-        "acier inoxydable": "autres",
-        "pierre": "autres",
-        "verre": "autres",
-        "caoutchouc": "autres",
-        "fer": "autres",
-        "PCTG": "autres",
-        "plastique-acrylique": "autres",
-        "plastique": "autres",
-        "cuivre": "autres",
-    }
+    # autres
+    "bois de manguier": "autres",
+    "papier": "autres",
+    "acier inoxydable": "autres",
+    "pierre": "autres",
+    "verre": "autres",
+    "caoutchouc": "autres",
+    "fer": "autres",
+    "PCTG": "autres",
+    "plastique-acrylique": "autres",
+    "plastique": "autres",
+    "cuivre": "autres",
+}
 
 
 mapping_categories_zara = {
-        "hauts et t-shirts": [
-            "t-shirt",
-            "top",
-            "haut",
-            "débardeur",
-            "chemise",
-            "polo",
-            "pull",
-            "gilet"
-        ],
+    "hauts et t-shirts": [
+        "t-shirt",
+        "top",
+        "haut",
+        "débardeur",
+        "chemise",
+        "polo",
+        "pull",
+        "gilet"
+    ],
 
-        "pantalons et leggings": [
-            "pantalon",
-            "legging"
-        ],
+    "pantalons et leggings": [
+        "pantalon",
+        "legging"
+    ],
 
-        "blazers et tailleurs": [
-            "blazer"
-        ],
+    "blazers et tailleurs": [
+        "blazer"
+    ],
 
-        "costumes et tenues particulières": [
-            "ensemble",
-            "déguisement"
-        ],
+    "costumes et tenues particulières": [
+        "ensemble",
+        "déguisement"
+    ],
 
-        "jupe-short": [
-            "jupe-short"
-        ],
+    "jupe-short": [
+        "jupe-short"
+    ],
+
     "combinaisons et combishorts": [
-            "combi-short",
-            "salopette"
-        ],
+        "combi-short",
+        "salopette"
+    ],
 
-        "jupes": [
-            "jupe"
-        ],
+    "jupes": [
+        "jupe"
+    ],
 
-        "manteaux et vestes": [
-            "veste",
-            "blouson",
-            "surchemise",
-            "poncho",
-            "ciré",
-            "cape"
-        ],
+    "manteaux et vestes": [
+        "veste",
+        "blouson",
+        "surchemise",
+        "poncho",
+        "ciré",
+        "cape"
+    ],
 
-        "accessoires": [
-            "bonnet",
-            "lunettes",
-            "bandana",
-            "ceinture",
-            "chaussettes",
-            "collier",
-            "chapeau",
-            "porte-clés",
-            "casquette",
-            "portefeuille",
-            "gants"
-        ],
+    "accessoires": [
+        "bonnet",
+        "lunettes",
+        "bandana",
+        "ceinture",
+        "chaussettes",
+        "collier",
+        "chapeau",
+        "porte-clés",
+        "casquette",
+        "portefeuille",
+        "gants"
+    ],
 
-        "sweats et sweats à capuche": [
-            "sweat"
-        ],
+    "sweats et sweats à capuche": [
+        "sweat"
+    ],
 
-        "jeans": [
-            "jean"
-        ],
+    "jeans": [
+        "jean"
+    ],
 
-        "chaussures": [
-            "sandales",
-            "mocassins",
-            "espadrille",
-            "sabots",
-            "baskets",
-            "ballerines",
-            "tennis",
-            "basket",
-            "claquettes"
-        ],
+    "chaussures": [
+        "sandales",
+        "mocassins",
+        "espadrille",
+        "sabots",
+        "baskets",
+        "ballerines",
+        "tennis",
+        "basket",
+        "claquettes"
+    ],
 
-        "robes": [
-            "robe"
-        ],
+    "robes": [
+        "robe"
+    ],
 
-        "autres": [
-            "lot",
-            "frisbee",
-            "grande",
-            "6-14"
-        ],
+    "autres": [
+        "lot",
+        "frisbee",
+        "grande",
+        "6-14"
+    ],
 
-        "shorts": [
-            "short",
-            "bermuda",
-            "jort"
-        ],
+    "shorts": [
+        "short",
+        "bermuda",
+        "jort"
+    ],
 
-        "maillots de bain": [
-            "maillot",
-            "paréo"
-        ],
+    "maillots de bain": [
+        "maillot",
+        "paréo"
+    ],
 
-        "lingerie et pyjamas": [
-            
-        ],
+    "lingerie et pyjamas": [
+        
+    ],
 
-        "sacs": [
-            "sac"
-        ]
-    }
+    "sacs": [
+        "sac"
+    ]
+}
 
 mapping_vinted = {
     "fibres naturelles végétales": [
@@ -193,7 +194,7 @@ mapping_vinted = {
         "viscose, lin"
     ],
 
-"fibres synthétiques": [
+    "fibres synthétiques": [
         "polyester",
         "polyester, élasthanne",
         "polyester, viscose, élasthanne",
