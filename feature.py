@@ -21,7 +21,6 @@ def prix_moyen_zara(df_zara,categorie, collection, couleur, matiere):
     resultats = df[filtre]
 
     if len(resultats) > 0:
-        print('niveau 1')
         return resultats['prix'].mean()
     else:
 
