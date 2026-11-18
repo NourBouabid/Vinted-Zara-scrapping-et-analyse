@@ -32,7 +32,7 @@ Le calcul exact de `decote` et le détail des opérations de nettoyage sont gér
 
 - Standardisation des variables numériques et encodage *one-hot* des variables catégorielles.
 - Comparaison de plusieurs valeurs de `k` au moyen de l’inertie et du score de silhouette.
-- Application de **K-means avec `k = 2`**, puis visualisation des groupes par **ACP à deux composantes**.
+- Application de **K-means**, puis visualisation des groupes par **ACP à deux composantes**.
 
 ### Modélisation supervisée
 
