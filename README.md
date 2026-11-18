@@ -38,5 +38,5 @@ Le calcul exact de `decote` et le détail des opérations de nettoyage sont gér
 
 - Prédiction de `decote` à partir de `likes`, `etat`, `categorie`, `collection`, `matiere` et `couleur`.
 - Découpage aléatoire **75 % entraînement / 25 % test** (`random_state=42`).
-- Prétraitement numérique/catégoriel et **régression Ridge** avec `alpha = 10` dans l’ajustement final.
+- Prétraitement numérique/catégoriel et **régression Ridge**.
 - Évaluation par `R²` et `RMSE` ; examen des coefficients du modèle et des modalités associées.
